@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+ }
+ 
+ body{
+     background: url(./netflix.jpg);
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+     background-attachment: fixed;
+ }
+
+ .tvscreen{
+    background: rgba(255, 255, 255, 0.562);
+    width: 50%;
+    height: 70%;
+    position: absolute;
+    border-radius: 10px;
+    left: 25rem;
+    top: 10rem;   
+ }
+
+.logo{
+    position: absolute;
+    top: 2.5rem;
+    left: 40rem;
+}    
+ 
